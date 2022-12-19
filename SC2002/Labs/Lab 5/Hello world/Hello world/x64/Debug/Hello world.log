@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Work\NTU-CS\SC2002 JAVA\Labs\Lab 5\Hello world\Hello world\main.cpp(103): warning C4715: 'getcolour': not all control paths return a value
+  Hello world.vcxproj -> D:\Work\NTU-CS\SC2002 JAVA\Labs\Lab 5\Hello world\x64\Debug\Hello world.exe
